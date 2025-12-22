@@ -1,40 +1,22 @@
-📊 SQL Data Cleaning — Layoffs 2022
-
-📌 Visão Geral
+# Limpeza de Dados em SQL (Demissões 2020 - 2023)
 
 Este projeto tem como objetivo realizar a limpeza, padronização e preparação de dados utilizando MySQL, a partir do dataset Layoffs 2022, disponível no Kaggle.
-
 O foco do projeto foi aplicar boas práticas comuns em rotinas de Análise de Dados, BI e Engenharia de Dados.
+
 
 🎯 Objetivos do Projeto
 
-Identificar e remover duplicatas reais
+Identificar e remover duplicatas reais, Padronizar dados 
 
-Padronizar dados 
-
-Tratar valores nulos
-
-Converter tipos de dados
+Tratar valores nulos, Converter tipos de dados
 
 Preparar os dados para Análise Exploratória (EDA)
 
-🗂️ Dataset
+🗂️ Dataset Layoffs 2022 (Kaggle), https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-Nome: Layoffs 2022 (Kaggle)
+O dataset contém informações sobre demissões em empresas de tecnologia ao redor do mundo, incluindo: Empresa Localização, Indústria, Total de demissões, Percentual de funcionários demitidos, Data do evento, Estágio da empresa, País, Fundos captados.
 
-Link: https://www.kaggle.com/datasets/swaptr/layoffs-2022
-
-O dataset contém informações sobre demissões em empresas de tecnologia ao redor do mundo, incluindo:
-Empresa
-
-Localização, Indústria, Total de demissões, Percentual de funcionários demitidos, Data do evento, Estágio da empresa, País, Fundos captados
-
-🛠️ Tecnologias Utilizadas
-
-MySQL (WorkBench)
-
-SQL 
-🔎 Etapas do Projeto
+Ferramentas: MySQL (WorkBench), SQL 
 
 
 1️⃣ Inspeção Inicial
