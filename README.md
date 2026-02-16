@@ -2,6 +2,7 @@
 
 Este projeto tem como objetivo realizar a limpeza, padronização e preparação de dados utilizando MySQL, a partir do dataset Layoffs 2022, disponível no Kaggle.
 O foco do projeto foi aplicar boas práticas comuns em rotinas de Análise de Dados, BI e Engenharia de Dados.
+
 ---
 ![Query](query)
 
