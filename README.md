@@ -4,7 +4,7 @@ Este projeto tem como objetivo realizar a limpeza, padronização e preparação
 O foco do projeto foi aplicar boas práticas comuns em rotinas de Análise de Dados, BI e Engenharia de Dados.
 
 ---
-![Query](query)
+![Query](query.png)
 
 ## Objetivos do Projeto:
 
